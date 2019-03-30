@@ -1,0 +1,3 @@
+<resources>
+    <string name="mystring">自定义string路径</string>
+</resources>
